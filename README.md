@@ -1,4 +1,4 @@
-##Hola
+Hola
 
 :books: Estudiante de ITC (Ingeniería en Tecnologías Computacionales) de 6° Semestre
 
